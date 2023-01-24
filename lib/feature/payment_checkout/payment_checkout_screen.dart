@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/model/payment_type.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/payment_checkout_presenter.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/payment_checkout_view.dart';
-import 'package:flutter_lio_integration/feature/products/model/product.dart';
+import 'package:deep_link/feature/payment_checkout/model/payment_type.dart';
+import 'package:deep_link/feature/payment_checkout/payment_checkout_presenter.dart';
+import 'package:deep_link/feature/payment_checkout/payment_checkout_view.dart';
+import 'package:deep_link/feature/products/model/product.dart';
 
 class PaymentCheckoutScreen extends StatefulWidget {
   final Product product;

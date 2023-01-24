@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lio_integration/routes.dart';
+import 'package:deep_link/routes.dart';
 
 void main() => runApp(MyApp());
 

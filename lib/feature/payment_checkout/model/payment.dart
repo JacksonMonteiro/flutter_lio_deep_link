@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter_lio_integration/feature/payment_checkout/model/payment_fields.dart';
+import 'package:deep_link/feature/payment_checkout/model/payment_fields.dart';
 
 class Payment {
   String accessKey;

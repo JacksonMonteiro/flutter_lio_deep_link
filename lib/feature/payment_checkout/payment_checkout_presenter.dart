@@ -1,10 +1,10 @@
 import 'dart:convert';
 
 import 'package:flutter/services.dart' show PlatformException;
-import 'package:flutter_lio_integration/feature/payment_checkout/model/Payment_request.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/model/payment_type.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/payment_checkout_view.dart';
-import 'package:flutter_lio_integration/feature/products/model/product.dart';
+import 'package:deep_link/feature/payment_checkout/model/Payment_request.dart';
+import 'package:deep_link/feature/payment_checkout/model/payment_type.dart';
+import 'package:deep_link/feature/payment_checkout/payment_checkout_view.dart';
+import 'package:deep_link/feature/products/model/product.dart';
 import 'package:uni_links/uni_links.dart';
 import 'package:url_launcher/url_launcher.dart';
 

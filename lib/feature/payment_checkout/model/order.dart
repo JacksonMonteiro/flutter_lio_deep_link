@@ -1,5 +1,5 @@
-import 'package:flutter_lio_integration/feature/payment_checkout/model/Payment_request.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/model/payment.dart';
+import 'package:deep_link/feature/payment_checkout/model/Payment_request.dart';
+import 'package:deep_link/feature/payment_checkout/model/payment.dart';
 
 class Order {
   String createdAt;

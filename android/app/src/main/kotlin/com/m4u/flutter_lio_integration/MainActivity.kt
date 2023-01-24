@@ -1,4 +1,4 @@
-package com.m4u.flutter_lio_integration
+package com.gfxconsultoria.deeplink
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

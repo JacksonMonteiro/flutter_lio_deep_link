@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lio_integration/feature/products/model/product.dart';
-import 'package:flutter_lio_integration/routes.dart';
+import 'package:deep_link/feature/products/model/product.dart';
+import 'package:deep_link/routes.dart';
 
 class ProductList extends StatefulWidget {
   @override

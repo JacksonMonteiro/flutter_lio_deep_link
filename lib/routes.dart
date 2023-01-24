@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_lio_integration/feature/payment_checkout/payment_checkout_screen.dart';
-import 'package:flutter_lio_integration/feature/products/product_list.dart';
+import 'package:deep_link/feature/payment_checkout/payment_checkout_screen.dart';
+import 'package:deep_link/feature/products/product_list.dart';
 
 const String rootRoute = "/";
 const String checkout = "/checkout";
